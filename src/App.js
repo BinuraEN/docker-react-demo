@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           This is first react app with docker - update works after travis build
-          3
+          3 - I was added at feature 1 branch
         </p>
         <a
           className="App-link"
@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I was changed on the feature
+          Learn React
         </a>
       </header>
     </div>
