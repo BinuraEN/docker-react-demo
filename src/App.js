@@ -6,7 +6,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>This is first react app with docker - update works after travis</p>
+        <p>
+          This is first react app with docker - update works after travis build
+          3
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
